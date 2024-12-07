@@ -24,4 +24,13 @@
    23  git status
    24  history
     git push -u origin main
-    
+    -------------------------
+    29  git remote -v
+   30  git push -u origin main
+   31  git push -u origin main
+   32  git status
+   33  git pull origin main
+   34  git add .
+   35  git commit -m "commands updated"
+   36  git push -u origin main
+   37  history

@@ -34,3 +34,9 @@
    35  git commit -m "commands updated"
    36  git push -u origin main
    37  history
+--------------------------
+git clone:-
+
+C:\Windows\System32>git clone https://github.com/sunnysavita10/Generative-AI-Indepth-Basic-to-Advance.git
+C:\Windows\System32>cd Generative-AI-Indepth-Basic-to-Advance
+C:\Windows\System32\Generative-AI-Indepth-Basic-to-Advance>code .

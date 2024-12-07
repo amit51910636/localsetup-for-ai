@@ -1,0 +1,25 @@
+ history [gitbash terminal]
+    1  python projectstructue.py 
+    2  python projectstructue.py 
+    3  python projectstructue.py
+    4  babjkhifehfefw   jk
+    5  cls
+    6  clear
+    7  bash init_setup.sh
+    8  conda activate C:\localsetup-for-ai\env
+    9  conda init
+   10  conda activate C:\localsetup-for-ai\env
+   11  clear
+   12  source activate ./env
+   13  python
+   14  clear
+   15  touch .gitignore
+   16  git add .
+   17  clear
+   18  git branch -M main
+   19  git init
+   20  git branch -M main
+   21  git remote add origin https://github.com/amit51910636/project-template.git
+   22  git push -u origin main
+   23  git status
+   24  history

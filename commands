@@ -23,3 +23,5 @@
    22  git push -u origin main
    23  git status
    24  history
+    git push -u origin main
+    
